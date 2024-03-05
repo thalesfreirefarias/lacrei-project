@@ -22,6 +22,7 @@ The following tools were used in the construction of the project:
 - [HTML](<https://developer.mozilla.org/pt-BR/docs/Web/HTML/>)
 - [CSS](<https://developer.mozilla.org/pt-BR/docs/Web/CSS/>)
 - [React](<https://react.dev/>)
+- [Typescript](<https://www.typescriptlang.org/>)
 
 
 ## 🤝 Creator
