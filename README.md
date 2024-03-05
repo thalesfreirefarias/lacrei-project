@@ -6,15 +6,15 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="calculador.png" alt="Exemplo imagem">
+<img src="lacrei.png" alt="Exemplo imagem">
 
-> I crafted a React-based calculator project, leveraging my expertise in React components, state management, and user interface design to deliver an efficient and user-friendly tool for diverse mathematical needs.
+> I engineered a healthcare platform using React and TypeScript, ensuring a seamless, responsive experience with intuitive navigation to external sites and dynamic UI feedback.
 
 ### Adjustments and improvements.
 
 The project is still under development, and the upcoming updates will focus on the following tasks:
 
-- [x] The IsPrime function is experiencing some issues displaying information on the website.
+- [x] I need to enhance the website's CSS to make it closely resemble Lacrei's Figma design.
 
 
 The following tools were used in the construction of the project:
