@@ -1,0 +1,9 @@
+.banner {
+  img {
+    width: Fixed (1,440px);
+    height: Hug (96px);
+    padding: 24px, 162px, 24px, 162px;
+    justify-content: space-between;
+    margin-bottom: 48px;
+  }
+}

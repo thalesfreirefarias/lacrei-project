@@ -1,0 +1,109 @@
+.section-container {
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  margin-bottom: 64px;
+ 
+}
+
+.section-1,
+.section-2 {
+  width: 30%;
+  padding: 20px;  
+
+}
+
+.section-1 {
+margin-top: 80px;
+}
+
+.section-2 {
+  margin-left: 226px;
+}
+
+.custom-section {
+  width: Fill (488px);
+  height: Hug (126px);
+  gap: 8px;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+}
+
+.custom-section1 {
+  font-weight: bold;
+font-family: Nunito;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0em;
+text-align: left;
+width: 488px;
+height: 116px;
+margin-right: 226px
+}
+.custom-section2{
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 488px;
+  height: 116px;
+
+}
+.button1{
+font-family: Nunito;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: center;
+background: #018762;
+color:white;
+}
+
+.button2{
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #018762;
+  }
+  
+  .button1,
+  .button2 {
+    margin-left: 24px; 
+    Width : 232;
+    Height : 48;
+    width: Fill (232px);
+    height: Fixed (48px);
+    padding: 10px, 32px;
+    border-radius: 8px;
+    gap: 24px;
+    margin-bottom: 80px;
+    border: 2px solid #018762;
+    font: size 20px;
+    transition: background-color 0.3s ease;
+  }
+
+  .button2:hover {
+    background-color: #018762;
+    color: #fff;
+  }
+  
+  .button1:hover {
+    background-color: #fff;
+    color:#018762;
+  }
+
+
+.main_image{
+  width: 400px;
+  height: 491px;
+  border-radius: 8px;
+
+}
